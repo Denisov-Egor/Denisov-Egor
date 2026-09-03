@@ -410,11 +410,14 @@ C++
 
 ## Избранные проекты
 
-| Проект                  | Направление                        | Статус   |
-| ----------------------- | ---------------------------------- | -------- |
-| `archlinux-dotfiles`    | Linux / Automation / Configuration | Active   |
-| `CPlusPlusMiniProjects` | C++ / Algorithms / Practice        | Active   |
-| `Cpp`                   | C++ / Learning / Practice          | Learning |
+| Проект                                                                           | Направление                        | Статус   |
+| :------------------------------------------------------------------------------- | :--------------------------------- | :------- |
+| [`archlinux-dotfiles`](https://github.com/Denisov-Egor/archlinux-dotfiles)       | Linux / Automation / Configuration | Active   |
+| [`CPlusPlusMiniProjects`](https://github.com/Denisov-Egor/CPlusPlusMiniProjects) | C++ / Algorithms / Practice        | Active   |
+| [`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux)               | C++ / Linux / Systems Programming  | Active   |
+| [`Cpp`](https://github.com/Denisov-Egor/Cpp)                                     | C++ / Learning / Practice          | Learning |
+
+
 
 ---
 
