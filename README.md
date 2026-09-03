@@ -2,146 +2,146 @@
 
 > **C++ developer in progress · Linux enthusiast · Arch Linux**
 
-I am learning **C++ and Linux**, gradually moving toward systems programming, automation, and software development.
+Изучаю **C++ и Linux**, постепенно углубляюсь в системное программирование, автоматизацию и разработку программного обеспечения.
 
-I build and maintain my own **Arch Linux** environment, work on educational and practical projects, and gradually turn experiments into more structured technical projects.
+Собираю собственное окружение на **Arch Linux**, пишу учебные и практические проекты и постепенно превращаю их в полноценные технические проекты.
 
 ---
 
-## About Me
+## Сейчас
 
-* Learning **C++**
-* Learning **Linux / Unix**
-* Exploring **systems programming**
-* Using **Arch Linux** as my primary operating system
-* Learning **C#**
-* Planning to learn **C and Java**
-* Building personal open-source projects
-* Improving development and engineering practices
+* изучаю **C++**
+* изучаю **Linux / Unix**
+* развиваюсь в направлении **системного программирования**
+* использую **Arch Linux** как основную систему
+* изучаю **C#**
+* планирую изучать **C и Java**
+* развиваю собственные open-source проекты
+* изучаю инструменты разработки и инженерные практики
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Языки
 
 `C++` `C#`
 
 ### Linux / System
 
-`Arch Linux` `Linux` `Wayland` `Hyprland` `systemd` `Bash` `Zsh`
+`Arch Linux` `Wayland` `Hyprland` `systemd` `Bash` `Zsh`
 
-### Development
+### Разработка
 
-`Git` `CMake` `GCC` `Clang` `GDB` `Valgrind`
+`Git` `CMake` `GDB` `Valgrind`
 
-### Editors & Tools
+### Редакторы и инструменты
 
 `VS Code` `Neovim` `Kitty`
 
 ---
 
-## Projects
+## Проекты
 
-### [`archlinux-dotfiles`](https://github.com/Denisov-Egor/archlinux-dotfiles)
+### `archlinux-dotfiles`
 
-My personal **Arch Linux configuration and desktop environment**.
+Моя конфигурация **Arch Linux** и рабочего окружения.
 
-The repository contains the configuration and automation used to build and maintain my Linux environment.
+Репозиторий показывает, как я организую и автоматизирую собственную Linux-систему.
 
-**Includes:**
+**Внутри:**
 
-* Hyprland configuration
+* Hyprland
 * Waybar
 * Kitty
 * Neovim
 * Bash / Zsh
 * systemd user units
 * GTK configuration
-* terminal configuration
-* package management
-* automated installer
-* configuration backups
-* ShellCheck validation
+* конфигурация терминала
+* управление пакетами
+* автоматизированный installer
+* резервное копирование конфигураций
+* проверка Shell-скриптов через ShellCheck
 
-This is my main project focused on **Linux, automation, and system configuration**.
-
----
-
-### [`CPlusPlusMiniProjects`](https://github.com/Denisov-Egor/CPlusPlusMiniProjects)
-
-A collection of small **C++ projects and practical exercises**.
-
-The repository is focused on learning through implementation rather than only studying language syntax.
-
-**Main areas:**
-
-* C++ fundamentals
-* functions
-* classes and OOP
-* STL
-* algorithms
-* data structures
-* file handling
-* error handling
-* practical console applications
-* problem solving
-
-The goal is to gradually turn small exercises into more structured and complete C++ projects.
+Это мой основной проект, связанный с Linux и системной конфигурацией.
 
 ---
 
-### [`Cpp`](https://github.com/Denisov-Egor/Cpp)
+### `CPlusPlusMiniProjects`
 
-My main learning repository for **C++**.
+Коллекция небольших практических проектов на **C++**.
 
-It contains:
+Репозиторий используется для закрепления изученных концепций языка через создание самостоятельных программ, а не только решение отдельных задач.
 
-* programming exercises
-* experiments
-* algorithms
-* data structures
-* small programs
-* language concepts
-* practical implementations
+**Основные направления:**
 
-I use this repository as a workspace for systematically learning and practicing C++.
+* основы C++
+* функции
+* условия и циклы
+* работа с массивами и строками
+* структуры данных
+* ООП
+* алгоритмы
+* работа с файлами
+* обработка ошибок
+* практические мини-проекты
+
+Цель проекта — постепенно переходить от простых учебных программ к более сложным и самостоятельным проектам.
 
 ---
 
-## Main Direction
+### `Cpp`
+
+Учебный репозиторий по **C++**.
+
+Здесь собираю:
+
+* практические задачи
+* эксперименты
+* алгоритмы
+* структуры данных
+* небольшие программы
+* изученные концепции языка
+* результаты практики
+
+Репозиторий используется как рабочая площадка для систематического изучения C++.
+
+---
+
+## Основное направление
 
 ```text
-                         C++
-                          │
-              ┌───────────┼───────────┐
-              │           │           │
-         Algorithms      STL          OOP
-              │           │           │
-              └───────────┼───────────┘
-                          │
-                  Systems Programming
-                          │
-                        Linux
-                          │
-            ┌─────────────┼─────────────┐
-            │             │             │
-        Processes     Filesystems     Threads
-            │             │             │
-            └─────────────┼─────────────┘
-                          │
-                     POSIX / Unix
+                    C++
+                     │
+          ┌──────────┼──────────┐
+          │          │          │
+      Algorithms    STL        OOP
+          │          │          │
+          └──────────┼──────────┘
+                     │
+             Systems Programming
+                     │
+                  Linux
+                     │
+       ┌─────────────┼─────────────┐
+       │             │             │
+   Processes      Filesystems    Threads
+       │             │             │
+       └─────────────┼─────────────┘
+                     │
+               POSIX / Unix
 ```
 
-My long-term goal is to move from learning the language to **systems programming and real software development**.
+Моя долгосрочная цель — двигаться от изучения языка к **системному программированию и разработке реального программного обеспечения**.
 
 ---
 
 ## Linux
 
-My primary operating system is **Arch Linux**.
+Моя основная операционная система — **Arch Linux**.
 
-I build and configure my working environment myself:
+Рабочее окружение собираю и настраиваю самостоятельно:
 
 ```text
 Arch Linux
@@ -155,13 +155,13 @@ Arch Linux
     └── custom dotfiles
 ```
 
-I am interested not only in customizing the desktop environment, but also in understanding **what happens underneath it**.
+Мне интересна не только настройка рабочего окружения, но и понимание того, **что происходит под ним**.
 
 ---
 
 ## C++ → Linux
 
-One of my main interests is the intersection of **C++ and Linux**:
+Особенно интересует пересечение **C++ и Linux**:
 
 ```text
 C++
@@ -183,62 +183,59 @@ C++
  └── System calls
 ```
 
-This is the direction I want to explore as I become more confident with C++.
+В дальнейшем хочу постепенно двигаться от обычных C++-программ к изучению системного программирования и взаимодействия программ с операционной системой.
 
 ---
 
-## What I Am Learning
+## Что изучаю
 
 ### C++
 
-* Basic syntax
-* Data types
-* Variables
-* Conditions
-* Loops
-* Functions
-* Pointers
-* References
-* Structures
-* Classes
-* OOP
+* базовый синтаксис
+* типы данных
+* функции
+* указатели
+* ссылки
+* структуры
+* классы
+* ООП
 * RAII
 * STL
-* Containers
-* Algorithms
-* Smart pointers
-* Move semantics
-* Templates
-* Exceptions
-* Multithreading
+* контейнеры
+* алгоритмы
+* smart pointers
+* move semantics
+* шаблоны
+* исключения
+* многопоточность
 
-### Algorithms
+### Алгоритмы
 
-* Arrays
-* Strings
-* Sorting
-* Searching
-* Binary search
-* Recursion
-* Data structures
-* Graphs
-* Dynamic programming
+* массивы
+* строки
+* сортировки
+* поиск
+* бинарный поиск
+* рекурсия
+* структуры данных
+* графы
+* динамическое программирование
 
 ### Linux
 
-* Filesystem
-* Processes
-* File descriptors
-* Permissions
-* Signals
-* Pipes
+* файловая система
+* процессы
+* файловые дескрипторы
+* права доступа
+* сигналы
+* pipes
 * IPC
 * `/proc`
-* System calls
-* Processes and threads
-* Shell environment
+* системные вызовы
+* процессы и потоки
+* shell environment
 
-### Development
+### Разработка
 
 * Git
 * CMake
@@ -255,44 +252,44 @@ This is the direction I want to explore as I become more confident with C++.
 
 ### C++
 
-* [x] Basic syntax
-* [x] Variables and types
-* [x] Conditions
-* [x] Loops
-* [x] Functions
-* [ ] Classes and OOP
+* [x] базовый синтаксис
+* [x] переменные и типы
+* [x] условия
+* [x] циклы
+* [x] функции
+* [ ] классы и ООП
 * [ ] RAII
 * [ ] STL
-* [ ] Smart pointers
-* [ ] Move semantics
-* [ ] Templates
-* [ ] Multithreading
+* [ ] smart pointers
+* [ ] move semantics
+* [ ] templates
+* [ ] multithreading
 
-### Algorithms
+### Алгоритмы
 
-* [ ] Arrays
-* [ ] Strings
-* [ ] Sorting
-* [ ] Binary search
-* [ ] Recursion
-* [ ] Data structures
-* [ ] Graphs
-* [ ] Dynamic programming
+* [ ] массивы
+* [ ] строки
+* [ ] сортировки
+* [ ] бинарный поиск
+* [ ] рекурсия
+* [ ] структуры данных
+* [ ] графы
+* [ ] динамическое программирование
 
 ### Linux
 
-* [ ] File descriptors
-* [ ] System calls
-* [ ] Processes
+* [ ] файловые дескрипторы
+* [ ] системные вызовы
+* [ ] процессы
 * [ ] `fork()`
 * [ ] `exec()`
 * [ ] `wait()`
-* [ ] Signals
-* [ ] Pipes
+* [ ] сигналы
+* [ ] pipes
 * [ ] IPC
 * [ ] `/proc`
 
-### Tools
+### Инструменты
 
 * [ ] CMake
 * [ ] GDB
@@ -304,30 +301,28 @@ This is the direction I want to explore as I become more confident with C++.
 
 ---
 
-## Engineering Principles
+## Принципы
 
 ```text
-Understand before abstracting.
-Keep it simple.
-Prefer RAII.
-Avoid unnecessary dependencies.
-Use the standard library when possible.
-Automate repetitive work.
-Write documentation.
-Understand the system underneath the code.
+Понимай, прежде чем абстрагировать.
+Делай проще.
+Используй RAII.
+Избегай ненужных зависимостей.
+Используй стандартную библиотеку, когда это возможно.
+Автоматизируй повторяющиеся задачи.
+Пиши документацию.
+Понимай систему, которая находится под кодом.
 ```
 
-For me, writing software is not only about making something work.
-
-It is about understanding **why it works, how it works, and how it can be improved**.
+Для меня важно не просто заставить программу работать, а **понять, почему она работает именно так**.
 
 ---
 
 ## Open Source
 
-I want to gradually move from personal learning projects toward higher-quality open-source software.
+Хочу постепенно переходить от личных учебных проектов к более качественным open-source проектам.
 
-My main areas of interest are:
+Основные направления:
 
 ```text
 C++
@@ -340,101 +335,84 @@ Developer Tools
 
 ---
 
-## 2026 Goals
+## 2026
 
-* Deepen my **C++** knowledge
-* Learn **C**
-* Continue studying **Linux internals**
-* Explore systems programming
-* Improve algorithms and data structures
-* Develop `CPlusPlusMiniProjects`
-* Build more independent projects
-* Improve code architecture and quality
-* Learn software testing
-* Improve my CMake workflow
-* Use CI/CD in personal projects
-* Contribute to open-source projects
+Основные цели на ближайший период:
+
+* углубить знания **C++**
+* изучить **C**
+* продолжить изучение **Linux internals**
+* глубже разобраться в системном программировании
+* улучшить знания алгоритмов и структур данных
+* развивать `CPlusPlusMiniProjects`
+* писать больше самостоятельных проектов
+* улучшать архитектуру и качество кода
+* освоить тестирование
+* улучшить CMake workflow
+* использовать CI/CD для проектов
+* участвовать в open source
 
 ---
 
 ## GitHub Focus
 
 ```text
-                       C++
-                        │
-             ┌──────────┼──────────┐
-             │          │          │
-          Learning   Algorithms   Systems
-             │          │          │
-             └──────────┼──────────┘
-                        │
-                      Linux
-                        │
-              ┌─────────┼─────────┐
-              │         │         │
-          Arch Linux  Automation  Tools
-              │         │         │
-              └─────────┼─────────┘
-                        │
-                  Open Source
+C++
+ │
+ ├── Learning
+ ├── Algorithms
+ ├── Projects
+ └── Practice
+       │
+       ▼
+     Linux
+       │
+ ├── Arch Linux
+ ├── Automation
+ ├── Configuration
+ └── System tools
 ```
 
-My GitHub is a public record of my **learning and development process**.
-
-The goal is to gradually turn learning exercises into real technical projects.
+Мой GitHub — это прежде всего **публичный процесс обучения и развития**, где учебные проекты постепенно превращаются в реальные технические проекты.
 
 ---
 
-## Featured Projects
+## Избранные проекты
 
-| Project                                                                          | Focus                              | Status   |
-| -------------------------------------------------------------------------------- | ---------------------------------- | -------- |
-| [`archlinux-dotfiles`](https://github.com/Denisov-Egor/archlinux-dotfiles)       | Linux / Automation / Configuration | Active   |
-| [`CPlusPlusMiniProjects`](https://github.com/Denisov-Egor/CPlusPlusMiniProjects) | C++ / Practice / Mini Projects     | Active   |
-| [`Cpp`](https://github.com/Denisov-Egor/Cpp)                                     | C++ / Algorithms / Learning        | Learning |
+| Проект                  | Направление                        | Статус   |
+| ----------------------- | ---------------------------------- | -------- |
+| `archlinux-dotfiles`    | Linux / Automation / Configuration | Active   |
+| `CPlusPlusMiniProjects` | C++ / Algorithms / Practice        | Active   |
+| `Cpp`                   | C++ / Learning / Practice          | Learning |
 
 ---
 
-## Learning Philosophy
+## Философия
 
-> **Understand the system, not just how to use it.**
+> **Понимать систему, а не просто уметь ей пользоваться.**
+
+Мой подход к обучению:
 
 ```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Understand
-  ↓
-Improve
-  ↓
-Build again
+Изучить → Создать → Сломать → Отладить → Понять → Улучшить
 ```
 
 ---
 
-## About
+## Обо мне
 
 **Denisov-Egor**
 
 `C++` · `Linux` · `Arch Linux` · `Systems Programming`
 
-Learning software development and gradually moving from programming exercises toward independent technical and systems-oriented projects.
+Изучаю разработку программного обеспечения и постепенно двигаюсь от учебных задач к самостоятельным системным проектам.
 
 ---
 
 ## GitHub
 
-**[@Denisov-Egor](https://github.com/Denisov-Egor)**
+**@Denisov-Egor**
 
-```text
-C++
-Linux
-Arch Linux
-Systems Programming
-Open Source
-```
+Основные направления:
+
+`C++` `Linux` `Arch Linux` `Systems Programming` `Open Source`
