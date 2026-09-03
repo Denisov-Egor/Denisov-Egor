@@ -42,7 +42,7 @@
 
 ## Проекты
 
-### `archlinux-dotfiles`
+### [`archlinux-dotfiles`](https://github.com/Denisov-Egor/archlinux-dotfiles)
 
 Моя конфигурация **Arch Linux** и рабочего окружения.
 
@@ -67,7 +67,7 @@
 
 ---
 
-### `CPlusPlusMiniProjects`
+### [`CPlusPlusMiniProjects`](https://github.com/Denisov-Egor/CPlusPlusMiniProjects)
 
 Коллекция небольших практических проектов на **C++**.
 
@@ -90,7 +90,7 @@
 
 ---
 
-### `Cpp` и `CPlusPlusLinux`
+### [`Cpp`](https://github.com/Denisov-Egor/Cpp) и [`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux)
 
 Учебные репозитории по **C++**, практике и программированию под **Linux**.
 
@@ -135,10 +135,10 @@
 
 `CPlusPlusLinux` — применение C++ для разработки программ, взаимодействующих с Linux.
 
-Это два связанных направления моего обучения: **C++ → Linux → Systems Programming**.
+Это два связанных направления моего обучения:
 
+**C++ → Linux → Systems Programming**
 
----
 
 ## Основное направление
 
