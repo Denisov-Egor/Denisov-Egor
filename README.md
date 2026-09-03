@@ -92,10 +92,6 @@
 
 ### [`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux) 
 
-Учебные репозитории по **C++**, практике и программированию под **Linux**.
-
-#### [`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux)
-
 Мой основной репозиторий обучения C++ и Linux.
 
 Проект объединяет изучение C++ с практикой в Linux-среде и постепенно движется в сторону системного программирования.
