@@ -15,77 +15,70 @@
 * развиваюсь в направлении **системного программирования**
 * использую **Arch Linux** как основную систему
 * планирую изучать **C, Java и C#**
-* развиваю собственные **open-source проекты**
+* развиваю собственные open-source проекты
 * изучаю инструменты разработки и инженерные практики
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Языки
 
-`C++`
+`C++` 
 
 ### Linux / System
 
-`Arch Linux` `Linux` `Wayland` `Hyprland` `systemd` `Bash` `Zsh`
+`Arch Linux` `Wayland` `Hyprland` `systemd` `Bash` `Zsh`
 
-### Development
+### Разработка
 
-`Git` `CMake` `GCC` `Clang` `GDB` `Valgrind`
+`Git` `CMake` `GDB` `Valgrind`
 
-### Editors & Tools
+### Редакторы и инструменты
 
 `VS Code` `Neovim` `Kitty`
 
 ---
 
-# Projects
+## Проекты
 
-## [`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux)
+### [`archlinux-dotfiles`](https://github.com/Denisov-Egor/archlinux-dotfiles)
 
-**Основной учебный и практический проект.**
+Моя конфигурация **Arch Linux** и рабочего окружения.
 
-Репозиторий посвящён изучению **C++ в Linux-среде** и постепенному переходу от базового программирования к системному программированию.
+Репозиторий показывает, как я организую и автоматизирую собственную Linux-систему.
 
-Основная идея — изучать не только сам язык C++, но и понимать, как программы взаимодействуют с операционной системой.
+**Внутри:**
 
-### Основные направления
+* Hyprland
+* Waybar
+* Kitty
+* Neovim
+* Bash / Zsh
+* systemd user units
+* GTK configuration
+* конфигурация терминала
+* управление пакетами
+* автоматизированный installer
+* резервное копирование конфигураций
+* проверка Shell-скриптов через ShellCheck
 
-* C++
-* Linux / Unix
-* POSIX API
-* системные вызовы
-* файловая система
-* файловые дескрипторы
-* процессы
-* потоки
-* сигналы
-* IPC
-* обработка ошибок
-* CMake
-* GDB
-* Valgrind
-
-### Цель
-
-Постепенно перейти от небольших учебных программ к **самостоятельным системным приложениям**.
+Это мой основной проект, связанный с Linux и системной конфигурацией.
 
 ---
 
-## [`CPlusPlusMiniProjects`](https://github.com/Denisov-Egor/CPlusPlusMiniProjects)
+### [`CPlusPlusMiniProjects`](https://github.com/Denisov-Egor/CPlusPlusMiniProjects)
 
 Коллекция небольших практических проектов на **C++**.
 
-Репозиторий используется для закрепления изученных концепций языка через создание самостоятельных программ.
+Репозиторий используется для закрепления изученных концепций языка через создание самостоятельных программ, а не только решение отдельных задач.
 
-### Основные направления
+**Основные направления:**
 
 * основы C++
 * функции
 * условия и циклы
-* массивы
-* строки
+* работа с массивами и строками
 * структуры данных
 * ООП
 * алгоритмы
@@ -93,13 +86,40 @@
 * обработка ошибок
 * практические мини-проекты
 
-Основная задача — переходить от простых упражнений к более самостоятельным программам.
+Цель проекта — постепенно переходить от простых учебных программ к более сложным и самостоятельным проектам.
 
 ---
 
-## [`Cpp`](https://github.com/Denisov-Egor/Cpp)
+### [`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux) и [`Cpp`](https://github.com/Denisov-Egor/Cpp) 
 
-Учебная площадка для систематического изучения **C++**.
+Учебные репозитории по **C++**, практике и программированию под **Linux**.
+
+#### [`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux)
+
+Практика **C++ в Linux-среде** с постепенным переходом к системному программированию.
+
+Основное внимание уделяется взаимодействию программ с операционной системой:
+
+* C++
+* Linux / Unix
+* POSIX API
+* файловая система
+* файловые дескрипторы
+* процессы
+* потоки
+* сигналы
+* IPC
+* системные вызовы
+* обработка ошибок
+* CMake
+* GDB
+* Valgrind
+
+Репозиторий используется для систематического изучения C++ и закрепления теории на практике.
+
+#### [`Cpp`](https://github.com/Denisov-Egor/Cpp)
+
+Основная учебная площадка по **C++**.
 
 Здесь собираю:
 
@@ -111,179 +131,44 @@
 * изученные концепции языка
 * результаты практики
 
-`Cpp` — фундаментальная практика языка.
+`CPlusPlusLinux` — применение C++ для разработки программ, взаимодействующих с Linux.
 
-`CPlusPlusMiniProjects` — применение изученного материала в небольших проектах.
+`Cpp` — изучение и практика самого языка.
 
-`CPlusPlusLinux` — следующий этап, где C++ пересекается с Linux и системным программированием.
+Это два связанных направления моего обучения:
 
----
+**C++ → Linux → Systems Programming**
 
-## [`archlinux-dotfiles`](https://github.com/Denisov-Egor/archlinux-dotfiles)
 
-Моя конфигурация **Arch Linux** и рабочего окружения.
-
-Репозиторий показывает, как я организую, настраиваю и автоматизирую собственную Linux-систему.
-
-### Внутри
-
-* Hyprland
-* Wayland
-* Waybar
-* Kitty
-* Neovim
-* Bash / Zsh
-* systemd user units
-* GTK configuration
-* terminal configuration
-* управление пакетами
-* автоматизированный installer
-* резервное копирование конфигураций
-* ShellCheck
-* автоматизация рабочего окружения
-
-Это мой основной проект, связанный с **Linux, конфигурацией и автоматизацией**.
-
----
-
-# Основное направление
+## Основное направление
 
 ```text
-                         C++
-                          │
-              ┌───────────┼───────────┐
-              │           │           │
-          Algorithms      STL         OOP
-              │           │           │
-              └───────────┼───────────┘
-                          │
-                 Systems Programming
-                          │
-                       Linux
-                          │
-          ┌───────────────┼───────────────┐
-          │               │               │
-      Processes       Filesystems      Threads
-          │               │               │
-          └───────────────┼───────────────┘
-                          │
-                    POSIX / Unix
+                    C++
+                     │
+          ┌──────────┼──────────┐
+          │          │          │
+      Algorithms    STL        OOP
+          │          │          │
+          └──────────┼──────────┘
+                     │
+             Systems Programming
+                     │
+                  Linux
+                     │
+       ┌─────────────┼─────────────┐
+       │             │             │
+   Processes      Filesystems    Threads
+       │             │             │
+       └─────────────┼─────────────┘
+                     │
+               POSIX / Unix
 ```
 
 Моя долгосрочная цель — двигаться от изучения языка к **системному программированию и разработке реального программного обеспечения**.
 
 ---
 
-# C++ → Linux
-
-Меня особенно интересует пересечение **C++ и Linux**.
-
-```text
-C++
- │
- ├── Memory
- ├── RAII
- ├── STL
- ├── Threads
- └── Error Handling
-       │
-       ▼
-     Linux
-       │
- ├── Processes
- ├── File Descriptors
- ├── Signals
- ├── IPC
- ├── Filesystems
- └── System Calls
-```
-
-Именно поэтому `CPlusPlusLinux` является главным направлением моего GitHub.
-
-Мой путь выглядит примерно так:
-
-```text
-C++ fundamentals
-       ↓
-Algorithms & Data Structures
-       ↓
-Object-Oriented Programming
-       ↓
-Modern C++
-       ↓
-Linux
-       ↓
-POSIX
-       ↓
-Systems Programming
-       ↓
-Real Software
-```
-
----
-
-# Что изучаю
-
-## C++
-
-* базовый синтаксис
-* типы данных
-* функции
-* указатели
-* ссылки
-* структуры
-* классы
-* ООП
-* RAII
-* STL
-* контейнеры
-* алгоритмы
-* smart pointers
-* move semantics
-* шаблоны
-* исключения
-* многопоточность
-
-## Algorithms
-
-* массивы
-* строки
-* сортировки
-* поиск
-* бинарный поиск
-* рекурсия
-* структуры данных
-* графы
-* динамическое программирование
-
 ## Linux
-
-* файловая система
-* права доступа
-* процессы
-* файловые дескрипторы
-* системные вызовы
-* сигналы
-* pipes
-* IPC
-* `/proc`
-* процессы и потоки
-* shell environment
-
-## Development
-
-* Git
-* CMake
-* GCC
-* Clang
-* GDB
-* Valgrind
-* ShellCheck
-* GitHub Actions
-
----
-
-# Linux
 
 Моя основная операционная система — **Arch Linux**.
 
@@ -305,9 +190,98 @@ Arch Linux
 
 ---
 
-# Roadmap
+## C++ → Linux
 
-## C++
+Особенно интересует пересечение **C++ и Linux**:
+
+```text
+C++
+ │
+ ├── Memory
+ ├── RAII
+ ├── STL
+ ├── Threads
+ └── Error handling
+       │
+       ▼
+     Linux
+       │
+ ├── Processes
+ ├── File descriptors
+ ├── Signals
+ ├── IPC
+ ├── Filesystems
+ └── System calls
+```
+
+В дальнейшем хочу постепенно двигаться от обычных C++-программ к изучению системного программирования и взаимодействия программ с операционной системой.
+
+---
+
+## Что изучаю
+
+### C++
+
+* базовый синтаксис
+* типы данных
+* функции
+* указатели
+* ссылки
+* структуры
+* классы
+* ООП
+* RAII
+* STL
+* контейнеры
+* алгоритмы
+* smart pointers
+* move semantics
+* шаблоны
+* исключения
+* многопоточность
+
+### Алгоритмы
+
+* массивы
+* строки
+* сортировки
+* поиск
+* бинарный поиск
+* рекурсия
+* структуры данных
+* графы
+* динамическое программирование
+
+### Linux
+
+* файловая система
+* процессы
+* файловые дескрипторы
+* права доступа
+* сигналы
+* pipes
+* IPC
+* `/proc`
+* системные вызовы
+* процессы и потоки
+* shell environment
+
+### Разработка
+
+* Git
+* CMake
+* GCC
+* Clang
+* GDB
+* Valgrind
+* ShellCheck
+* GitHub Actions
+
+---
+
+## Roadmap
+
+### C++
 
 * [x] базовый синтаксис
 * [x] переменные и типы
@@ -322,7 +296,7 @@ Arch Linux
 * [ ] templates
 * [ ] multithreading
 
-## Algorithms
+### Алгоритмы
 
 * [ ] массивы
 * [ ] строки
@@ -333,7 +307,7 @@ Arch Linux
 * [ ] графы
 * [ ] динамическое программирование
 
-## Linux
+### Linux
 
 * [ ] файловые дескрипторы
 * [ ] системные вызовы
@@ -346,7 +320,7 @@ Arch Linux
 * [ ] IPC
 * [ ] `/proc`
 
-## Tools
+### Инструменты
 
 * [ ] CMake
 * [ ] GDB
@@ -358,7 +332,7 @@ Arch Linux
 
 ---
 
-# Принципы
+## Принципы
 
 ```text
 Понимай, прежде чем абстрагировать.
@@ -375,7 +349,7 @@ Arch Linux
 
 ---
 
-# Open Source
+## Open Source
 
 Хочу постепенно переходить от личных учебных проектов к более качественным open-source проектам.
 
@@ -392,94 +366,70 @@ Developer Tools
 
 ---
 
-# 2026
+## 2026
 
-Основные цели:
+Основные цели на ближайший период:
 
 * углубить знания **C++**
 * изучить **C**
 * продолжить изучение **Linux internals**
 * глубже разобраться в системном программировании
 * улучшить знания алгоритмов и структур данных
-* развивать `CPlusPlusLinux`
 * развивать `CPlusPlusMiniProjects`
 * писать больше самостоятельных проектов
 * улучшать архитектуру и качество кода
 * освоить тестирование
 * улучшить CMake workflow
-* использовать CI/CD
+* использовать CI/CD для проектов
 * участвовать в open source
 
 ---
 
-# Избранные проекты
-
-| Проект                                                                           | Направление                        | Статус       |
-| :------------------------------------------------------------------------------- | :--------------------------------- | :----------- |
-| [`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux)               | C++ / Linux / Systems Programming  | **Основной** |
-| [`CPlusPlusMiniProjects`](https://github.com/Denisov-Egor/CPlusPlusMiniProjects) | C++ / Algorithms / Practice        | Active       |
-| [`Cpp`](https://github.com/Denisov-Egor/Cpp)                                     | C++ / Learning / Practice          | Learning     |
-| [`archlinux-dotfiles`](https://github.com/Denisov-Egor/archlinux-dotfiles)       | Linux / Automation / Configuration | Active       |
-
----
-
-# GitHub Focus
+## GitHub Focus
 
 ```text
-                    Denisov-Egor
-                         │
-                ┌────────┴────────┐
-                │                 │
-               C++               Linux
-                │                 │
-        ┌───────┼───────┐   ┌─────┼─────┐
-        │       │       │   │     │     │
-    Learning  Projects Algorithms Arch  Systems
-        │       │       │   │     │     │
-        └───────┴───────┘   └─────┴─────┘
-                │                 │
-                └────────┬────────┘
-                         │
-                Systems Programming
+C++
+ │
+ ├── Learning
+ ├── Algorithms
+ ├── Projects
+ └── Practice
+       │
+       ▼
+     Linux
+       │
+ ├── Arch Linux
+ ├── Automation
+ ├── Configuration
+ └── System tools
 ```
 
-Мой GitHub — это публичный процесс обучения и развития.
-
-Учебные задачи постепенно превращаются в проекты, а проекты — в более серьёзную инженерную практику.
+Мой GitHub — это прежде всего **публичный процесс обучения и развития**, где учебные проекты постепенно превращаются в реальные технические проекты.
 
 ---
 
-# Философия
+## Избранные проекты
+
+| Проект                                                                           | Направление                        | Статус   |
+| :------------------------------------------------------------------------------- | :--------------------------------- | :------- |
+| [`archlinux-dotfiles`](https://github.com/Denisov-Egor/archlinux-dotfiles)       | Linux / Automation / Configuration | Active   |
+| [`CPlusPlusMiniProjects`](https://github.com/Denisov-Egor/CPlusPlusMiniProjects) | C++ / Algorithms / Practice        | Active   |
+| [`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux)               | C++ / Linux / Systems Programming  | Active   |
+| [`Cpp`](https://github.com/Denisov-Egor/Cpp)                                     | C++ / Learning / Practice          | Learning |
+
+
+
+---
+
+## Философия
 
 > **Понимать систему, а не просто уметь ей пользоваться.**
 
 Мой подход к обучению:
 
 ```text
-Изучить
-   ↓
-Создать
-   ↓
-Сломать
-   ↓
-Отладить
-   ↓
-Понять
-   ↓
-Улучшить
+Изучить → Создать → Сломать → Отладить → Понять → Улучшить
 ```
-
----
-
-# Обо мне
-
-**Denisov-Egor**
-
-`C++` · `Linux` · `Arch Linux` · `Systems Programming`
-
-Изучаю разработку программного обеспечения и постепенно двигаюсь от учебных задач к самостоятельным системным проектам.
-
----
 
 ## GitHub
 
@@ -489,5 +439,4 @@ Developer Tools
 
 `C++` `Linux` `Arch Linux` `Systems Programming` `Open Source`
 
-**Главный проект обучения:**
-[`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux)
+мой основноой репозиторий обучения это [`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux) 
