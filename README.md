@@ -90,13 +90,15 @@
 
 ---
 
-### [`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux) и [`Cpp`](https://github.com/Denisov-Egor/Cpp) 
+### [`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux) 
 
 Учебные репозитории по **C++**, практике и программированию под **Linux**.
 
 #### [`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux)
 
-Практика **C++ в Linux-среде** с постепенным переходом к системному программированию.
+Мой основной репозиторий обучения C++ и Linux.
+
+Проект объединяет изучение C++ с практикой в Linux-среде и постепенно движется в сторону системного программирования.
 
 Основное внимание уделяется взаимодействию программ с операционной системой:
 
@@ -117,25 +119,6 @@
 
 Репозиторий используется для систематического изучения C++ и закрепления теории на практике.
 
-#### [`Cpp`](https://github.com/Denisov-Egor/Cpp)
-
-Основная учебная площадка по **C++**.
-
-Здесь собираю:
-
-* практические задачи
-* эксперименты
-* алгоритмы
-* структуры данных
-* небольшие программы
-* изученные концепции языка
-* результаты практики
-
-`CPlusPlusLinux` — применение C++ для разработки программ, взаимодействующих с Linux.
-
-`Cpp` — изучение и практика самого языка.
-
-Это два связанных направления моего обучения:
 
 **C++ → Linux → Systems Programming**
 
@@ -415,7 +398,6 @@ C++
 | [`archlinux-dotfiles`](https://github.com/Denisov-Egor/archlinux-dotfiles)       | Linux / Automation / Configuration | Active   |
 | [`CPlusPlusMiniProjects`](https://github.com/Denisov-Egor/CPlusPlusMiniProjects) | C++ / Algorithms / Practice        | Active   |
 | [`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux)               | C++ / Linux / Systems Programming  | Active   |
-| [`Cpp`](https://github.com/Denisov-Egor/Cpp)                                     | C++ / Learning / Practice          | Learning |
 
 
 
@@ -439,4 +421,6 @@ C++
 
 `C++` `Linux` `Arch Linux` `Systems Programming` `Open Source`
 
-мой основноой репозиторий обучения это [`CPlusPlusLinux`](https://github.com/Denisov-Egor/CPlusPlusLinux) 
+Мой основной репозиторий обучения — CPlusPlusLinux.
+
+Именно в нём я хочу постепенно перейти от изучения C++ к Linux, POSIX и системному программированию.
