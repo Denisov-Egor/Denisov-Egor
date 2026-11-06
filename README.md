@@ -33,13 +33,6 @@
 | Редакторы | Neovim, VS Code |
 | Рабочее окружение | Hyprland, Wayland |
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Denisov-Egor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denisov-Egor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ## Избранные проекты
 
 | Проект | Направление | Статус |
@@ -48,12 +41,6 @@
 | [archlinux-dotfiles](https://github.com/Denisov-Egor/archlinux-dotfiles) | Linux / Automation / Configuration | Active |
 | [CPlusPlusMiniProjects](https://github.com/Denisov-Egor/CPlusPlusMiniProjects) | C++ / Algorithms / Practice | Active |
 | [CPlusPlusLinux](https://github.com/Denisov-Egor/CPlusPlusLinux) | C++ / Linux / Systems Programming | Active |
-
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Denisov-Egor&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
 
 ## Сейчас изучаю
 
@@ -124,9 +111,3 @@
 Основной репозиторий обучения — [CPlusPlusLinux](https://github.com/Denisov-Egor/CPlusPlusLinux).
 
 Здесь я последовательно развиваю знания C++ и Linux, закладывая основу для дальнейшего изучения системного программирования и создания самостоятельных инженерных проектов.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Denisov-Egor/Denisov-Egor/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
