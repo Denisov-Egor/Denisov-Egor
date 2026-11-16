@@ -1,8 +1,13 @@
 # Egor Denisov
 
 
+<h1 align="center">Egor Denisov</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=C%2B%2B+%7C+Linux+%7C+Systems+Programming&repeat=true" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&height=50&lines=C+%7C+C%2B%2B+%7C+Linux+%7C+Systems+Programming&repeat=true"
+    alt="C | C++ | Linux | Systems Programming"
+  />
 </p>
 
 
