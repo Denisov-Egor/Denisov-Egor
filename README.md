@@ -1,7 +1,9 @@
 # Egor Denisov
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=C%2B%2B+%7C+Linux+%7C+%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5;Изучаю+%D0%B8+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%9F%D0%9E)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=C%2B%2B+%7C+Linux+%7C+%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5;Изучаю+%D0%B8+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%9F%D0%9E" alt="Typing SVG" />
+  </a>
 </p>
 
 Изучаю C и C++, уделяя особое внимание пониманию внутреннего устройства программного обеспечения и операционных систем.
