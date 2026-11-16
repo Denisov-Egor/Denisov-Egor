@@ -1,11 +1,8 @@
 # Egor Denisov
 
 
-## GitHub Statistics
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Denisov-Egor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denisov-Egor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=C%2B%2B+%7C+Linux+%7C+Systems+Programming&repeat=true" alt="Typing SVG" />
 </p>
 
 
