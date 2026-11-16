@@ -1,9 +1,7 @@
 # Egor Denisov
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=C%2B%2B+%7C+Linux+%7C+%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5;Изучаю+%D0%B8+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%9F%D0%9E" alt="C++ | Linux | Системное программирование" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=C%2B%2B+%7C+Linux+%7C+%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5;Изучаю+%D0%B8+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%9F%D0%9E)](https://git.io/typing-svg)
 </p>
 
 Изучаю C и C++, уделяя особое внимание пониманию внутреннего устройства программного обеспечения и операционных систем.
@@ -23,43 +21,43 @@
 
 ## Технологии и инструменты
 
-| Категория | Технологии |
-|---|---|
-| Языки программирования | C, C++, Bash |
-| Операционные системы | Linux, Arch Linux |
-| Компиляторы | GCC, Clang |
-| Отладка | GDB |
-| Инструменты | Git, GitHub |
-| Редакторы кода | Neovim, VS Code |
-| Графическая среда | Hyprland, Wayland |
+| Категория              | Технологии        |
+| ---------------------- | ----------------- |
+| Языки программирования | C, C++, Bash      |
+| Операционные системы   | Linux, Arch Linux |
+| Компиляторы            | GCC, Clang        |
+| Отладка                | GDB               |
+| Инструменты            | Git, GitHub       |
+| Редакторы кода         | Neovim, VS Code   |
+| Графическая среда      | Hyprland, Wayland |
 
 ## Избранные проекты
 
 ### Разработка на C и C++
 
-| Проект | Описание |
-|---|---|
-| [TerminalNotes](https://github.com/Denisov-Egor/TerminalNotes) | Консольное приложение для создания и управления заметками на C++. |
-| [CPlusPlusMiniProjects](https://github.com/Denisov-Egor/CPlusPlusMiniProjects) | Набор небольших практических проектов на C++. |
-| [CPlusPlusLinux](https://github.com/Denisov-Egor/CPlusPlusLinux) | Упражнения и практика изучения C++ и Linux. |
+| Проект                                                                         | Описание                                                          |
+| ------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| [TerminalNotes](https://github.com/Denisov-Egor/TerminalNotes)                 | Консольное приложение для создания и управления заметками на C++. |
+| [CPlusPlusMiniProjects](https://github.com/Denisov-Egor/CPlusPlusMiniProjects) | Набор небольших практических проектов на C++.                     |
+| [CPlusPlusLinux](https://github.com/Denisov-Egor/CPlusPlusLinux)               | Упражнения и практика изучения C++ и Linux.                       |
 
 ### Разработка на C
 
-| Проект | Описание |
-|---|---|
-| [CLearning](https://github.com/Denisov-Egor/CLearning) | Изучение языка C: основные концепции, механизмы языка и практические упражнения. |
-| [CLearningMiniProjects](https://github.com/Denisov-Egor/CLearningMiniProjects) | Небольшие практические проекты для закрепления изученного материала по C. |
+| Проект                                                                         | Описание                                                                         |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| [CLearning](https://github.com/Denisov-Egor/CLearning)                         | Изучение языка C: основные концепции, механизмы языка и практические упражнения. |
+| [CLearningMiniProjects](https://github.com/Denisov-Egor/CLearningMiniProjects) | Небольшие практические проекты для закрепления изученного материала по C.        |
 
 ### Linux и окружение разработки
 
-| Проект | Описание |
-|---|---|
+| Проект                                                                   | Описание                                                            |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------- |
 | [archlinux-dotfiles](https://github.com/Denisov-Egor/archlinux-dotfiles) | Конфигурационные файлы Arch Linux, Hyprland и окружения разработки. |
 
 ## Алгоритмическое программирование
 
-| Проект | Описание |
-|---|---|
+| Проект                                                                 | Описание                                                                                         |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | [SportsProgramming](https://github.com/Denisov-Egor/SportsProgramming) | Практика алгоритмического программирования, решение задач и развитие навыков анализа алгоритмов. |
 
 ## Развитие и обучение
